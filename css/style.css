@@ -51,7 +51,7 @@ body {
 .main > .content_main {
     padding-left: 18px;
 }
-.main > .content_main > span {
+.main > .content_main > div > span {
     color: rgb(98, 0, 255);
 }
 
@@ -60,4 +60,16 @@ body {
 }
 .main > .content_main > ul {
     padding-left: 25px;
+}
+.Rec_23 {
+    margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Rec_24 {
+    margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
