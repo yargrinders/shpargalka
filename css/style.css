@@ -61,12 +61,7 @@ body {
 .main > .content_main > ul {
     padding-left: 25px;
 }
-.Rec_23 {
-    margin: 30px;
-    display: flex;
-    align-content: center;
-    justify-content: center;
-}
+.Rec_23,
 .Rec_24 {
     margin: 30px;
     display: flex;
